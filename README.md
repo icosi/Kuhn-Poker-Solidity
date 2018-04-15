@@ -23,16 +23,16 @@ Instrccions:
   
   (A continuació enviarem sempre 5 Ether, per enviar 5 Ether al cridar una funció nomes fa falta posar 5 a la pestanya 'value' i marcar 'ether')
   
-    1- Create game. Cridem a la funció amb 5 Ether. Aixo ens retornara el ID de la partida. Si cridem a 'getGamesID' ens mostrara tots els ID's de les partides creades.
+  1- Create game. Cridem a la funció amb 5 Ether. Aixo ens retornara el ID de la partida. Si cridem a 'getGamesID' ens mostrara tots els ID's de les partides creades.
     
-    2- Join game. Aqui em de posar com a parametre el ID de la partida a la que ens volem unir. Tambe l'hem de cridar amb 5 Ether. 
+  2- Join game. Aqui em de posar com a parametre el ID de la partida a la que ens volem unir. Tambe l'hem de cridar amb 5 Ether. 
     Ara es repartiran les cartes i es decidirà qui es el player1 i qui el player2
     
-    3- És el torn del player1. Aquest ha de cridar a play, posant el ID de la partida i enviara Ether, si vol fer RAISE; o no, si vol fer CHECK.
+  3- És el torn del player1. Aquest ha de cridar a play, posant el ID de la partida i enviara Ether, si vol fer RAISE; o no, si vol fer CHECK.
     
-    4- Torn del player2. El mateix.
+  4- Torn del player2. El mateix.
     
-    ------ (Nomes hi ha els casos CHECK-CHECK, RAISE-RAISE o que algu faci FOLD) -------
-    
-    5- Es comprova el guanyador i s'envia tot el que s'ha apostat al guanyador.    
+  ------ (Nomes hi ha els casos CHECK-CHECK, RAISE-RAISE o que algu faci FOLD) -------
+  
+  5- Es comprova el guanyador i s'envia tot el que s'ha apostat al guanyador.    
     
