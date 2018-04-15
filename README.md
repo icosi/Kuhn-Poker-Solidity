@@ -17,6 +17,7 @@ Instrccions:
   
   Ara ja esta l'SmartContract creat i abaix a la dreta hi hauran les funcions a la que es pot cridar
   
+  S'ha substituit les cartes JQK pels numeros 123, les mecaniques son les mateixes. Soldity rules!
 
 -----------------  Pasos per a jugar una partida ------------
 
