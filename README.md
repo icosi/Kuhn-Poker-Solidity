@@ -17,10 +17,9 @@ Instrccions:
   
   Ara ja esta l'SmartContract creat i abaix a la dreta hi hauran les funcions a la que es pot cridar
   
-  
-  
-  Pasos per a jugar una partida:
-  
+
+-----------------  Pasos per a jugar una partida ------------
+
   (A continuació enviarem sempre 5 Ether, per enviar 5 Ether al cridar una funció nomes fa falta posar 5 a la pestanya 'value' i marcar 'ether')
   
   1- Create game. Cridem a la funció amb 5 Ether. Aixo ens retornara el ID de la partida. Si cridem a 'getGamesID' ens mostrara tots els ID's de les partides creades.
